@@ -1,3 +1,5 @@
+// https://github.com/zulhfreelancer/go-ethereum-get-contract-owner
+
 package zcontractowner
 
 import (
