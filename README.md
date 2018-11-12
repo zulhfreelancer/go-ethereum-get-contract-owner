@@ -17,3 +17,5 @@ contract YourContract {
     // code omitted for brevity
 }
 ```
+
+If you prefer using `go-ethereum` package way, go to this [repo](https://github.com/zulhfreelancer/ethclient-get-contract-owner).
